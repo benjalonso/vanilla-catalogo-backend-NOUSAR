@@ -1,0 +1,24 @@
+{
+  "name": "vanilla_ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjalonso/vanilla-ecommerce.git"
+  },
+  "author": "Benjamin Larenas Bravo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjalonso/vanilla-ecommerce/issues"
+  },
+  "homepage": "https://github.com/benjalonso/vanilla-ecommerce#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "sequelize": "^6.21.4"
+  }
+}
